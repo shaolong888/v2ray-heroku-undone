@@ -1,4 +1,4 @@
-# 一键部署 v2ray 到 heroku  
+＃好好学生火狐  
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 - - -
 - - -
